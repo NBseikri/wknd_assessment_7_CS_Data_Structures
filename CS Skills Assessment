@@ -1,0 +1,30 @@
+Part 1: Discussion Questions
+
+Recursion
+
+(1) In your own words, what is recursion?
+
+Recursion is the process of a function calling itself. 
+
+(2) Why is it necessary to have a base case?
+
+Without a base case (i.e. a stopping point) a recursive function will continue
+indefinitely.
+
+Graphs
+
+(1) What is a graph?
+
+Graphs are similar to trees in that they model relationships amongst nodes. 
+Relationships in graphs can be cyclical, directed or non-directed.
+
+(2) How is a graph different from a tree?
+
+Trees are acyclical and necessarily directional.
+
+(3) Give an example of something that would be good to model with a graph.
+
+Intestate succecssion (inheritance when a decedent died without a will) can be
+modeled well by a graph as inheritance can travel up a family tree before
+traveling downward to a family member who inherits. Intestate succession
+can be cyclical and non-directed.
